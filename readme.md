@@ -1,2 +1,2 @@
 
-A simple Express API created for learning purpose.
+A simple API created using NodeJs(Express).
